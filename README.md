@@ -9,6 +9,8 @@ https://github.com/MiloCo86/bike-shop-back-end
 https://github.com/MiloCo86/bike-shop-front-end
 
 ## deployement URL
+### back-end
+https://sprocket-science-back-end.onrender.com
 
 ## Authors 🧑‍💻
 
