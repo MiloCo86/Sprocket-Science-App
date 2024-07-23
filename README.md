@@ -1,14 +1,14 @@
 # Sprocket-Science-App 🚲
 
-## Back-end repo
+## Back-end repo ⌨️
 
 https://github.com/MiloCo86/bike-shop-back-end
 
-## Front-end repo
+## Front-end repo 🖥️
 
 https://github.com/MiloCo86/bike-shop-front-end
 
-## deployement URL
+## deployement URL 📡
 ### back-end
 https://sprocket-science-back-end.onrender.com
 
